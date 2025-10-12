@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/satriaaja002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/satriaaja002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satria-dewangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satria-dewangga" height="30" width="40" /></a>
+<a href="https://twitter.com/satriadewa002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satriadewa002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satria dewangga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satria dewangga" height="30" width="40" /></a>
 <a href="https://instagram.com/m.satriadewa.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.satriadewa.22" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zenthams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zenthams" height="30" width="40" /></a>
 </p>
