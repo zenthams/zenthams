@@ -1,4 +1,4 @@
-# 💫 Hi there👋:
+# Hi there👋:
 <br>I'm ZenthaMS<br><br>CEO, Software Engineer at HyperXZ ID
 
 
