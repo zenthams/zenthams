@@ -2,7 +2,6 @@
 <h3 align="center">CEO,Software Engineer at HyperXZ ID</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenthams&label=Profile%20views&color=0e75b6&style=flat" alt="zenthams" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenthams&theme=" alt="zenthams" /></a> </p>
 
 <div> <a href="https://twitter.com/SatriaAJA002" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/satria-dewangga" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
