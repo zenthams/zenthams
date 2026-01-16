@@ -1,6 +1,6 @@
 # Hi there👋
 # I'm ZenthaMS
-<br>CEO, Software Engineer at HyperXZ ID
+CEO, Software Engineer at HyperXZ ID
 
 
 ## 🌐 Socials:
