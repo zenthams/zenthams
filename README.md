@@ -1,5 +1,5 @@
 # ZenthaMS
-<br><br>CEO,Software Engineer at HyperXZ ID
+<br>CEO,Software Engineer at HyperXZ ID
 
 
 ## :globe_with_meridians: Socials
