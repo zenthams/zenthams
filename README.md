@@ -1,5 +1,5 @@
-# Hi there:wave:
-I'm ZenthaMS<br><br>CEO,Software Engineer at HyperXZ ID
+# ZenthaMS
+<br><br>CEO,Software Engineer at HyperXZ ID
 
 
 ## :globe_with_meridians: Socials
@@ -11,8 +11,6 @@ I'm ZenthaMS<br><br>CEO,Software Engineer at HyperXZ ID
 ![](https://github-readme-stats.vercel.app/api?username=zenthams&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zenthams&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenthams&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zenthams&theme=" alt="zenthams" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
