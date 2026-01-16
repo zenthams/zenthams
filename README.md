@@ -1,5 +1,5 @@
 # Hi there👋
-# I'm ZenthaMS
+I'm ZenthaMS
 CEO, Software Engineer at HyperXZ ID
 
 
