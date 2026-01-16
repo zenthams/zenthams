@@ -12,7 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zenthams&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenthams&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/zenthams">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenthams&theme=2077" height="180em" />
